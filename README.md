@@ -1,7 +1,7 @@
 # Cards
 слайдер карточек
 
-![Cards](./skrin.PNG)
+![Cards](./src/skrin.PNG)
 
 ## Технологии:
 * HTML5
